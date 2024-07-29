@@ -5,7 +5,9 @@ title: Home
 
 # Welcome to My Portfolio
 
-Home
+## [Projects](projects.md)
+## [About Me](about.md)
+## [Contact](contact.md)
 
 ## Projects
 
