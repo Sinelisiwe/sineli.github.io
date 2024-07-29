@@ -1,8 +1,17 @@
 title: My Portfolio
 description: This is my personal portfolio site showcasing my projects and skills.
 url: "https://github.com/Sinelisiwe/sineli.github.io" # the base hostname & protocol for your site
-theme: jekyll-theme-cayman 
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
 
 author:
   name: "Sinelisiwe Sibeko"
   email: "sinelisibeko@gmail.com"
+
+social_links:
+  - name: GitHub
+    url: https://github.com/Sinelisiwe
+  - name: LinkedIn
+    url: www.linkedin.com/in/sinelisiwe-sibeko-758201272
