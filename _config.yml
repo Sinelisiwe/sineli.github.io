@@ -16,6 +16,3 @@ social_links:
   - name: LinkedIn
     url: www.linkedin.com/in/sinelisiwe-sibeko-758201272
 
-git add _config.yml
-git commit -m "Update _config.yml"
-git push origin main
