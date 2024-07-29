@@ -1,6 +1,6 @@
 title: My Portfolio
 description: This is my personal portfolio site showcasing my projects and skills.
-url: "https://sinelisiwe.github.io" # the base hostname & protocol for my site
+url: "https://sineli.github.io" # the base hostname & protocol for my site
 theme: jekyll-theme-cayman
 
 # Build settings
