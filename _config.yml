@@ -1,6 +1,6 @@
 title: My Portfolio
 description: This is my personal portfolio site showcasing my projects and skills.
-url: "https://github.com/Sinelisiwe/sineli.github.io" # the base hostname & protocol for your site
+url: "url: "https://sinelisiwe.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-cayman
 
 # Build settings
@@ -15,3 +15,7 @@ social_links:
     url: https://github.com/Sinelisiwe
   - name: LinkedIn
     url: www.linkedin.com/in/sinelisiwe-sibeko-758201272
+
+git add _config.yml
+git commit -m "Update _config.yml"
+git push origin main
