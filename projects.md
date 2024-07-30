@@ -14,7 +14,8 @@ A mobile application designed to showcase and explore murals located in New Brig
 Technologies Used:
 
 iOS Development: Swift
-UIKit: For user interface components
+
+UIKit: For user interface components \n
 Core Data: For local data persistence
 MapKit: For displaying murals on a map and user location
 URLSession: For network requests to fetch mural data
