@@ -21,11 +21,11 @@ iOS Development: Swift
  <br>JSONDecoder: For parsing JSON data
  <br>NSCache: For caching images and data
 
-**Key Features:**
-- **Detail View:** Displays detailed information about a selected mural, including an image, title, artist, and additional information.
-- **Map Integration:** Shows the user’s current location and nearby murals on a map, allowing for easy exploration of murals based on proximity.
-- **Data Fetching and Caching:** Retrieves mural data from a web service, caches images and data to improve performance, and saves the data using Core Data for offline access.
-- **Dynamic Updates:** Updates mural information based on user interaction and changes in location.
+<p> Key Features:
+<br>- Displays detailed information about a selected mural, including an image, title, artist, and additional information.
+<br>- Shows the user’s current location and nearby murals on a map, allowing for easy exploration of murals based on proximity.
+<br>- Data Fetching and Caching: Retrieves mural data from a web service, caches images and data to improve performance, and saves the data using Core Data for offline access.
+<br>- Updates mural information based on user interaction and changes in location.
 
 
 [GitHub Repository](https://github.com/username/project1)
