@@ -15,11 +15,11 @@ Technologies Used:
 
 iOS Development: Swift
 
-<p> UIKit: For user interface components  <br>Core Data: For local data persistence
-MapKit: For displaying murals on a map and user location
-URLSession: For network requests to fetch mural data
-JSONDecoder: For parsing JSON data
-NSCache: For caching images and data
+<p> UIKit: For user interface components  <br>Core Data: For local data persistence<p> 
+ <br>MapKit: For displaying murals on a map and user location<p> 
+ <br>URLSession: For network requests to fetch mural data<p> 
+ <br>JSONDecoder: For parsing JSON data<p> 
+ <br>NSCache: For caching images and data<p> 
 
 [GitHub Repository](https://github.com/username/project1)
 
