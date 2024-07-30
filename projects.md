@@ -15,7 +15,8 @@ Technologies Used:
 
 iOS Development: Swift
 
-UIKit: For user interface components /n
+UIKit: For user interface components
+
 Core Data: For local data persistence
 MapKit: For displaying murals on a map and user location
 URLSession: For network requests to fetch mural data
