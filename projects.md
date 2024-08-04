@@ -21,15 +21,14 @@ Technologies Used:
  <br>NSCache: For caching images and data <p>
 
  
-
-<img src="mural_detail_view.png" alt="Detail View of a Mural" width="300">
+<img src="map_view.png" alt="Map View with Murals" width="300">
 
 <p> Key Features:
 <br>- Displays detailed information about a selected mural, including an image, title, artist, and additional information.
 <br>- Shows the user’s current location and nearby murals on a map, allowing for easy exploration of murals based on proximity.
 <br>- Data Fetching and Caching: Retrieves mural data from a web service, caches images and data to improve performance, and saves the data using Core Data for offline access.
-<br>- Updates mural information based on user interaction and changes in location.
-![Detail View of a Mural](mural_detail_view.png)
+<br>- Updates mural information based on user interaction and changes in location.<p>
+<img src="mural_detail_view.png" alt="Detail View of a Mural" width="300">
 
 
 [GitHub Repository](https://github.com/username/project1)
