@@ -18,9 +18,10 @@ Technologies Used:
  <br>MapKit: For displaying murals on a map and user location
  <br>URLSession: For network requests to fetch mural data
  <br>JSONDecoder: For parsing JSON data
- <br>NSCache: For caching images and data
+ <br>NSCache: For caching images and data <p>
 
  
+
 <img src="mural_detail_view.png" alt="Detail View of a Mural" width="300">
 
 <p> Key Features:
