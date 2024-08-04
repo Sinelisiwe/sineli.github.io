@@ -15,13 +15,15 @@ Technologies Used:
 
 iOS Development: Swift
 
-![Detail View of a Mural](mural_detail_view.png)
+![Map View with Murals](map_view.png)
 
 <p> UIKit: For user interface components  <br>Core Data: For local data persistence
  <br>MapKit: For displaying murals on a map and user location
  <br>URLSession: For network requests to fetch mural data
  <br>JSONDecoder: For parsing JSON data
  <br>NSCache: For caching images and data
+ 
+ ![Detail View of a Mural](mural_detail_view.png)
 
 <p> Key Features:
 <br>- Displays detailed information about a selected mural, including an image, title, artist, and additional information.
