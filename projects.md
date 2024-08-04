@@ -11,25 +11,22 @@ Mural Finding App
 
 A mobile application designed to showcase and explore murals located in New Brighton. The app allows users to view details about each mural, including images, artist information, and additional data. It also integrates location services to display murals on a map and sorts them based on their proximity to the user.
 
-Technologies Used:
-
 iOS Development: Swift
 
-![Map View with Murals](map_view.png)
-
+Technologies Used:
 <p> UIKit: For user interface components  <br>Core Data: For local data persistence
  <br>MapKit: For displaying murals on a map and user location
  <br>URLSession: For network requests to fetch mural data
  <br>JSONDecoder: For parsing JSON data
  <br>NSCache: For caching images and data
- 
- ![Detail View of a Mural](mural_detail_view.png)
+![Map View with Murals](map_view.png)
 
 <p> Key Features:
 <br>- Displays detailed information about a selected mural, including an image, title, artist, and additional information.
 <br>- Shows the user’s current location and nearby murals on a map, allowing for easy exploration of murals based on proximity.
 <br>- Data Fetching and Caching: Retrieves mural data from a web service, caches images and data to improve performance, and saves the data using Core Data for offline access.
 <br>- Updates mural information based on user interaction and changes in location.
+![Detail View of a Mural](mural_detail_view.png)
 
 
 [GitHub Repository](https://github.com/username/project1)
