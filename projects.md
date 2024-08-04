@@ -15,7 +15,7 @@ Technologies Used:
 
 iOS Development: Swift
 
-https://github.com/Sinelisiwe/sineli.github.io/blob/main/map_view.png
+![Detail View of a Mural](mural_detail_view.png)
 
 <p> UIKit: For user interface components  <br>Core Data: For local data persistence
  <br>MapKit: For displaying murals on a map and user location
