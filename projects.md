@@ -20,6 +20,7 @@ Technologies Used:
  <br>JSONDecoder: For parsing JSON data
  <br>NSCache: For caching images and data
 ![Map View with Murals](map_view.png)
+<img src="images/mural_detail_view.png" alt="Detail View of a Mural" width="300">
 
 <p> Key Features:
 <br>- Displays detailed information about a selected mural, including an image, title, artist, and additional information.
