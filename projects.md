@@ -19,7 +19,8 @@ Technologies Used:
  <br>URLSession: For network requests to fetch mural data
  <br>JSONDecoder: For parsing JSON data
  <br>NSCache: For caching images and data
-![Map View with Murals](map_view.png)
+
+ 
 <img src="mural_detail_view.png" alt="Detail View of a Mural" width="300">
 
 <p> Key Features:
