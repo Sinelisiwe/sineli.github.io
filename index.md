@@ -5,8 +5,6 @@ title: Home
 
 # Welcome to My Portfolio
 
-## [About Me](about.md)
-
 ## Projects
 
 - [Project 1](project1.md)
@@ -17,4 +15,6 @@ title: Home
 - You can reach me at sinelisibeko@gmail.com or connect with me on [LinkedIn]([www.linkedin.com/in/sinelisiwe-sibeko-758201272]).
 
 ## About Me
+
+Software developer and graduate from the University of Liverpool.
 
