@@ -9,7 +9,7 @@ title: Home
 
 ## Projects
 
-- [Project 1](project1.md)
+- [Project 1](projects.md)
 - [Project 2](project2.md)
 
 ## [Contact](contact.md)
