@@ -30,6 +30,4 @@ Technologies Used:
 <br>- Updates mural information based on user interaction and changes in location.<p>
 <img src="mural_detail_view.png" alt="Detail View of a Mural" width="300">
 
-## Project 2
-
-- [Project 2](project2.md)
+## [Project 2](project2.md)
